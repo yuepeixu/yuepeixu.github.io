@@ -8,13 +8,13 @@ layout: page
 
 - Hi, here is **Yuepei Xu** ([许岳培](https://yuepeixu.github.io/file/YuepeiXu_CV.pdf)).
 
-I am now a PhD student specializing in **Applied Psychology (Behavioral Decision-making)**, at Institute of Psychology, Chinese Academy of Sciences ([中国科学院心理研究所](http://www.psych.ac.cn/)). I am extremely fortunate to be advised by Dr. Zhu-Yuan Liang ([梁竹苑](http://www.psych.cas.cn/team/fyjy/index_90511.html?json=http://www.psych.cas.cn/sourcedb_psych_cas/cn/expert/201704/t20170411_6369873.json)).
+- I am now a PhD student specializing in **Applied Psychology (Behavioral Decision-making)**, at Institute of Psychology, Chinese Academy of Sciences ([中国科学院心理研究所](http://www.psych.ac.cn/)). I am extremely fortunate to be advised by Dr. Zhu-Yuan Liang ([梁竹苑](http://www.psych.cas.cn/team/fyjy/index_90511.html?json=http://www.psych.cas.cn/sourcedb_psych_cas/cn/expert/201704/t20170411_6369873.json)).
 
-Throughout my academic journey, I have developed a deep interest in understanding how individuals make decisions and the factors that influence their choices. I am intrigued by the intricate interplay between cognition, emotions, and behavior, and how these components shape the decisions we make in our daily lives.
+- Throughout my academic journey, I have developed a deep interest in understanding how individuals make decisions and the factors that influence their choices. I am intrigued by the intricate interplay between cognition, emotions, and behavior, and how these components shape the decisions we make in our daily lives.
 
 ## Research Interests
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ## News and Updates
 
