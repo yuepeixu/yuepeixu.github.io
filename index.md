@@ -6,8 +6,14 @@ layout: page
 
 <img src="https://yuepeixu.github.io/images/Yuepei_Xu.jpg" class="floatpic" width="360" height="480">
 
-Here is **Yuepei Xu ([许岳培](https://yuepeixu.github.io/file/YuepeiXu_CV.pdf))**.
 
+
+Hi, here is **Yuepei Xu ([许岳培] (https://yuepeixu.github.io/file/YuepeiXu_CV.pdf))**.
+
+
+I am now a PhD student at Institute of Psychology, Chinese Academy of Sciences ([中国科学院心理研究所] (http://www.psych.ac.cn/)). My major is **Behavioral Decision-making**, and I believe it is a field that pushes the boundaries of knowledge, demands creativity, and requires a relentless pursuit of excellence. Throughout my academic journey, I have been fortunate enough to immerse myself in this dynamic realm, constantly seeking to broaden my horizons and make meaningful contributions.
+
+, exploring the fascinating world of Behavioral Decision-making. 
 I am a junior majoring in **Automation** at Fuzhou University and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
 
 ## Research Interests
