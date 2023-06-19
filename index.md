@@ -6,7 +6,7 @@ layout: page
 
 ## About Me
 
-Hi, here is **Yuepei Xu** ([许岳培](https://yuepeixu.github.io/file/YuepeiXu_CV.pdf)).
+- Hi, here is **Yuepei Xu** ([许岳培](https://yuepeixu.github.io/file/YuepeiXu_CV.pdf)).
 
 I am now a PhD student specializing in **Applied Psychology (Behavioral Decision-making)**, at Institute of Psychology, Chinese Academy of Sciences ([中国科学院心理研究所](http://www.psych.ac.cn/)). I am extremely fortunate to be advised by Dr. Zhu-Yuan Liang ([梁竹苑](http://www.psych.cas.cn/team/fyjy/index_90511.html?json=http://www.psych.cas.cn/sourcedb_psych_cas/cn/expert/201704/t20170411_6369873.json)).
 
