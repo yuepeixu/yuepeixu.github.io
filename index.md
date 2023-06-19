@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="https://yuepeixu.github.io/images/Yuepei_Xu.jpg" class="floatpic" width="400" height="400">
+<img src="https://yuepeixu.github.io/images/Yuepei_Xu.jpg" class="floatpic" width="400" height="550">
 
 ## About Me
 
