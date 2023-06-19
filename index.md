@@ -2,19 +2,16 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
-<img src="https://yuepeixu.github.io/images/Yuepei_Xu.jpg" class="floatpic" width="360" height="480">
+<img src="https://yuepeixu.github.io/images/Yuepei_Xu.jpg" class="floatpic" width="320" height="320">
 
+# 
+Hi, here is **Yuepei Xu** ([许岳培](https://yuepeixu.github.io/file/YuepeiXu_CV.pdf)).
 
+I am now a PhD student specializing in **Applied Psychology (Behavioral Decision-making)**, at Institute of Psychology, Chinese Academy of Sciences ([中国科学院心理研究所](http://www.psych.ac.cn/)). I am extremely fortunate to be advised by Dr. Zhu-Yuan Liang ([梁竹苑](http://www.psych.cas.cn/team/fyjy/index_90511.html?json=http://www.psych.ca..cn/sourcedb_psych_cas/cn/expert/201704/t20170411_6369873.json)).
 
-Hi, here is **Yuepei Xu ([许岳培] (https://yuepeixu.github.io/file/YuepeiXu_CV.pdf))**.
-
-
-I am now a PhD student at Institute of Psychology, Chinese Academy of Sciences ([中国科学院心理研究所] (http://www.psych.ac.cn/)). My major is **Behavioral Decision-making**, and I believe it is a field that pushes the boundaries of knowledge, demands creativity, and requires a relentless pursuit of excellence. Throughout my academic journey, I have been fortunate enough to immerse myself in this dynamic realm, constantly seeking to broaden my horizons and make meaningful contributions.
-
-, exploring the fascinating world of Behavioral Decision-making. 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+Throughout my academic journey, I have developed a deep interest in understanding how individuals make decisions and the factors that influence their choices. I am intrigued by the intricate interplay between cognition, emotions, and behavior, and how these components shape the decisions we make in our daily lives.
 
 ## Research Interests
 
