@@ -4,10 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://yuepeixu.github.io/images/Yuepei_Xu.jpg" class="floatpic" width="360" height="480">
+<img src="https://yuepeixu.github.io/images/Yuepei_Xu.jpg" class="center" width="540" height="540">
 
-
-
+ 
 Hi, here is **Yuepei Xu ([许岳培](https://yuepeixu.github.io/file/YuepeiXu_CV.pdf))**.
 
 
