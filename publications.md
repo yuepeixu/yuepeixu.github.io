@@ -17,14 +17,12 @@ title: Publications
     - Related report in Chinese: [心理所研究揭示不同移动健康策略助推走路行为的效果存在性别差异](http://www.psych.cas.cn/news/kyjz/202202/t20220224_6374010.html)
 
 ## Journal Paper
-As co-first/first author:
 - <u>Xu, Y.</u>, Lu, C-L., Wang, J., Song, Q-Y., Jia, B-B., Hu, C-P<sup>#</sup>. (2022). Evaluating nil effect in psychological research: A practical primer [in Chinese]. *Chinese Journal of Applied Psychology, 28*(4), 369-384. (CSSCI).  [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/nil.pdf)
 - Lyu, X-K. <sup>\*</sup>, <u>Xu, Y.</u><sup>\*</sup>, Zhao, X-F., Zuo, X-N., & Hu, C-P<sup>#</sup>. (2020). Beyond psychology: Prevalence of *P* value and confidence interval misinterpretation across different fields. *Journal of Pacific Rim Psychology, 14*, e6. (SSCI, JCR-Q3). [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/PCI.pdf)
   - Related report in Chinese: [九成以上研究者或无法正确理解p值](https://mp.weixin.qq.com/s/INfROQ728abDLRnDnHzF3Q)
 - <u>Xu, Y.</u>, Wu, P-P., He, W<sup>#</sup>. (2020). Effects of psychological stress on pain empathy of individuals with different levels of neuroticism [in Chinese]. *Chinese Journal of Clinical Psychology, 28*(5), 877-880. (CSSCI/CSCD).  [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/pain.pdf)
-- <u>Xu, Y.</u>, & He, W<sup>#</sup>. (2019). More information = Less Aggression? Impact of information asymmetry on Chinese patients’ aggression. *Frontiers in Public Health, 7*, e118. (SSCI/SCI, JCR-Q1). [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/asymmetry.pdf)
+- <u>Xu, Y.</u>, & He, W<sup>#</sup>. (2019). More information = Less Aggression? Impact of information asymmetry on Chinese patients’ aggression. *Frontiers in Public Health, 7*, e118. (SSCI/SCI, JCR-Q1). [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/asymmetry.pdf)<br>
 
-As contributing author:
 - He, W.<sup>\*</sup>, Xu, L.<sup>\*</sup>, Hu, Y., <u>Xu, Y.</u>, Dong, T.<sup>#</sup>,  Zhao, Huan<sup>#</sup>. (2023). Positive valence ≠ positive effect: Impact of positive meta-stereotypes on the cognitive performance. *The Journal of Social Psychology*, 1-11. (SSCI, JCR-Q3). [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/positive.pdf)
 - He, W., Jiang, W., Zhu, J., <u>Xu, Y.</u>, Zhao, Huan<sup>#</sup>. (2022). A modifying effect of trait empathy on frustration-related attentional processing of aggression-related words. *Social Psychology, 53*(2), 107-120. (SSCI, JCR-Q2). [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/aggression.pdf)
 - Wang, J., Song, Q-Y., <u>Xu, Y.</u>, ... , Hu, C-P<sup>#</sup>. (2021). Interpreting nonsignificant results: A quantitative investigation based on 500 Chinese psychological research [in Chinese]. *Advances in Psychological Science, 29*(3), 381-393. (CSSCI/CSCD). [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/500.pdf)
@@ -35,6 +33,5 @@ As contributing author:
 - <u>Xu, Y.</u>, & Liang, Z-Y<sup>#</sup>. (2021). Linguistic-saving hypothesis among bilinguals: Do different languages impact future orientation and intertemporal discounting? *The 25th China National Academic Conference of Psychology*.  Talks in Chinese (Inner Mongolia).
 - <u>Xu, Y.</u>, Yue, L-Z. <sup>\*</sup>, Wang, W., Wu, X-J., & Liang, Z-Y<sup>#</sup>. (2021). Self-monitoring and social norms promote walking behavior among Chinese college students: Evidence based on smartphone social media. *2021 China Academic Conference of Social Psychology*.  Talks in Chinese (Su Zhou).
 
-## Peer Review
-Journal name (numbers of articles reviewed)
+## Peer Review ##
 - Journal of Medical Internet Research (2)
