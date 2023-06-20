@@ -34,13 +34,12 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Projects & Awards
-    url: /projects/
+  - title: Research
+    url: /research/
   - title: Hobbies
     url: /hobbies/
-
+  - title: Contact me
+    url: /contact/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
