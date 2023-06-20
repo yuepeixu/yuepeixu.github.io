@@ -4,51 +4,20 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-# Hobbies
-
-## Teaching & Workshops
+## Beijing Opera
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/BJ1.jpeg">
+<img src="/images/BJ2.jpeg">
+<img src="/images/BJ3.jpeg">
 </div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
+<br>I'm a big fan of Beijing Opera, particularly the Cheng School (程派) . The artistry, symbolism, and intricate movements of Beijing Opera have always fascinated me, making it a profound and cherished part of my life. As a beginner, I attended Follow-Me class sponsored by Shanghai Jingju Theatre for twice.
 
-[a fantastic speech]:https://youtu.be/Dzx84KpGNoE
-[best universities in my hometown]:https://www.fzu.edu.cn/
-
-
-
-## Swimming & Surfing
+## Pets
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/P1.JPG">
+<img src="/images/P2.JPG">
+<img src="/images/P3.JPG">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my swimming career. Recently, I am also keen on surfing.
-
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-This is my love. Her name is Qbo (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
-
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-
+<br>I (and my lover) am fortunate to have two hamsters and one cat who bring so much joy and happiness. Watching them scurry around, play with toys, and stuff their little cheeks with food never fails to bring a smile to my face. My pets have brought an incredible amount of joy and love into my life. Their unconditional affection and playful nature have a way of making everything better. 
