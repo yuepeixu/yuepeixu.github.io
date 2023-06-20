@@ -11,15 +11,14 @@ title: Publications
 <sup>\*</sup>Co-First author, <sup>#</sup>Corresponding author
 - <u>Xu, Y.</u>, Wu, C-G., Zhang, Y-Y., & Liang, Z-Y<sup>#</sup>. (2023). How a second language and its future time reference impacts intertemporal decision: A holistic perspective. *Bilingualism: Language and Cognition.* 1-12. (SSCI ,JCR-Q1).
     - Read the full-text: [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/language.pdf)
-    - Related report in Chinese: [言其语者从其俗？心理所研究揭示语言对个体跨期决策的影响](http://www.psych.cas.cn/news/kyjz/202303/t20230322_6706867.html)
+    - Related report in Chinese: [言其语者从其俗？心理所研究揭示语言对个体跨期决策的影响](http://www.psych.cas.cn/news/kyjz/202303/t20230322_6706867.html)<br>
 - <u>Xu, Y.</u><sup>\*</sup>, Yue, L-Z. <sup>\*</sup>, Wang, W., Wu, X-J., & Liang, Z-Y<sup>#</sup>. (2021). Gender-specific impact of self-monitoring and social norm information on walking behavior among Chinese college students assessed using WeChat: Longitudinal tracking study. *Journal of Medical Internet Research. 23*(12), e29167. (SCI, JCR-Q1).
     - Read the full-text: [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/walk.pdf)
     - Related report in Chinese: [心理所研究揭示不同移动健康策略助推走路行为的效果存在性别差异](http://www.psych.cas.cn/news/kyjz/202202/t20220224_6374010.html)
 
 ## Journal Paper
 - <u>Xu, Y.</u>, Lu, C-L., Wang, J., Song, Q-Y., Jia, B-B., Hu, C-P<sup>#</sup>. (2022). Evaluating nil effect in psychological research: A practical primer [in Chinese]. *Chinese Journal of Applied Psychology, 28*(4), 369-384. (CSSCI).  [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/nil.pdf)
-- Lyu, X-K. <sup>\*</sup>, <u>Xu, Y.</u><sup>\*</sup>, Zhao, X-F., Zuo, X-N., & Hu, C-P<sup>#</sup>. (2020). Beyond psychology: Prevalence of *P* value and confidence interval misinterpretation across different fields. *Journal of Pacific Rim Psychology, 14*, e6. (SSCI, JCR-Q3). [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/PCI.pdf)
-  - Related report in Chinese: [九成以上研究者或无法正确理解p值](https://mp.weixin.qq.com/s/INfROQ728abDLRnDnHzF3Q)
+- Lyu, X-K. <sup>\*</sup>, <u>Xu, Y.</u><sup>\*</sup>, Zhao, X-F., Zuo, X-N., & Hu, C-P<sup>#</sup>. (2020). Beyond psychology: Prevalence of *P* value and confidence interval misinterpretation across different fields. *Journal of Pacific Rim Psychology, 14*, e6. (SSCI, JCR-Q3). [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/PCI.pdf) (Related report in Chinese: [九成以上研究者或无法正确理解p值](https://mp.weixin.qq.com/s/INfROQ728abDLRnDnHzF3Q))
 - <u>Xu, Y.</u>, Wu, P-P., He, W<sup>#</sup>. (2020). Effects of psychological stress on pain empathy of individuals with different levels of neuroticism [in Chinese]. *Chinese Journal of Clinical Psychology, 28*(5), 877-880. (CSSCI/CSCD).  [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/pain.pdf)
 - <u>Xu, Y.</u>, & He, W<sup>#</sup>. (2019). More information = Less Aggression? Impact of information asymmetry on Chinese patients’ aggression. *Frontiers in Public Health, 7*, e118. (SSCI/SCI, JCR-Q1). [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/asymmetry.pdf)<br>
 
