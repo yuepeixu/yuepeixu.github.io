@@ -5,10 +5,10 @@ title: Research
 ---
 
 - Latest Update: 20th June 2023.
+- Authors are labeled as: <sup>\*</sup>Co-First author, <sup>#</sup>Corresponding author
 - You can also find my papers at [GoogleScholar](https://scholar.google.com.hk/citations?user=eDSGXtYAAAAJ&hl=zh-CN) and [ResearchGate](https://www.researchgate.net/profile/Yuepei-Xu/research).
 
 ## Representative Work
-<sup>\*</sup>Co-First author, <sup>#</sup>Corresponding author
 - <u>Xu, Y.</u>, Wu, C-G., Zhang, Y-Y., & Liang, Z-Y<sup>#</sup>. (2023). How a second language and its future time reference impacts intertemporal decision: A holistic perspective. *Bilingualism: Language and Cognition.* 1-12. (SSCI ,JCR-Q1).
     - Read the full-text: [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/language.pdf)
     - Related report in Chinese: [言其语者从其俗？心理所研究揭示语言对个体跨期决策的影响](http://www.psych.cas.cn/news/kyjz/202303/t20230322_6706867.html)
