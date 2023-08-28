@@ -19,6 +19,7 @@ title: Research
 
 ## Journal Paper
 - <u>Xu, Y.</u>, Lu, C-L., Wang, J., Song, Q-Y., Jia, B-B., Hu, C-P<sup>#</sup>. (2022). Evaluating nil effect in psychological research: A practical primer [in Chinese]. *Chinese Journal of Applied Psychology, 28*(4), 369-384. (CSSCI).  [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/nil.pdf)
+    - The full-text of this paper was reprinted by the China Social Science Excellence (该文被中国人民大学复印报刊资料《心理学》2023年第3期全文转载)
 - Lyu, X-K. <sup>\*</sup>, <u>Xu, Y.</u><sup>\*</sup>, Zhao, X-F., Zuo, X-N., & Hu, C-P<sup>#</sup>. (2020). Beyond psychology: Prevalence of *P* value and confidence interval misinterpretation across different fields. *Journal of Pacific Rim Psychology, 14*, e6. (SSCI, JCR-Q3). [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/PCI.pdf) (Related report in Chinese: [九成以上研究者或无法正确理解p值](https://mp.weixin.qq.com/s/INfROQ728abDLRnDnHzF3Q))
 - <u>Xu, Y.</u>, Wu, P-P., He, W<sup>#</sup>. (2020). Effects of psychological stress on pain empathy of individuals with different levels of neuroticism [in Chinese]. *Chinese Journal of Clinical Psychology, 28*(5), 877-880. (CSSCI/CSCD).  [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/pain.pdf)
 - <u>Xu, Y.</u>, & He, W<sup>#</sup>. (2019). More information = Less Aggression? Impact of information asymmetry on Chinese patients’ aggression. *Frontiers in Public Health, 7*, e118. (SSCI/SCI, JCR-Q1). [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/asymmetry.pdf)<br>
