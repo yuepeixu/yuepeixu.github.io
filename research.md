@@ -42,7 +42,7 @@ title: Research
   
 ## Talks or Posters
 - <u>Xu, Y.</u>, Wu, Cheng-Gang., Zhang, Yang-Yang., & Liang, Z-Y<sup>#</sup>. (2023). The language effect on intertemporal decision: A holistic perspective. *The Fourth Academic Annual Meeting of the Decision-making Psychology Professional Committee of the Chinese Psychological Society*. Talks in Chinese (Kashgar, China).
-  - Awarded the Academic Rising-star Award
+  - Awarded the Academic Rising-star Award(荣获“学术新锐奖”)
 - <u>Xu, Y.</u>, & Liang, Z-Y<sup>#</sup>. (2023). The language effect on intertemporal decision: A holistic perspective. *2023 Subjective Probability, Utility, and Decision Making (2023 SPUDM)*. Full talk (Vienna, Austria).
 - <u>Xu, Y.</u>, & Liang, Z-Y<sup>#</sup>. (2021). Linguistic-saving hypothesis among bilinguals. *2021 Subjective Probability, Utility, and Decision Making (2021 SPUDM)*. Poster (online). [<font color="blue">Poster</font>](https://yuepeixu.github.io/mypaper/2021SPUDM.pdf)
 - <u>Xu, Y.</u>, & Liang, Z-Y<sup>#</sup>. (2021). Linguistic-saving hypothesis among bilinguals: Do different languages impact future orientation and intertemporal discounting? *The 25th China National Academic Conference of Psychology*.  Talks in Chinese (Inner Mongolia).
