@@ -20,4 +20,4 @@ title: Hobbies
 <img src="/images/P2.jpg">
 <img src="/images/P3.jpg">
 </div>
-<br>I (and my lover) am fortunate to have two hamsters (四毛 & 八角) and one cat (六圆) who bring so much joy and happiness. Watching them scurry around, play with toys, and stuff their little cheeks with food never fails to bring a smile to my face. My pets have brought an incredible amount of joy and love into my life. Their unconditional affection and playful nature have a way of making everything better. 
+<br> My beloved pets bring me so much joy and happiness (the hamster 四毛/八角 and the cat 六圆). Watching them scurry around, play with toys, and stuff their little cheeks with food never fails to bring a smile to my face. My pets have brought an incredible amount of joy and love into my life. Their unconditional affection and playful nature have a way of making everything better. 
