@@ -4,7 +4,7 @@ permalink: /research/index.html
 title: Research
 ---
 
-- Latest Update: 20th June 2023.
+- Latest Update: August 2024.
 - Authors are labeled as: <sup>\*</sup>Co-First author, <sup>#</sup>Corresponding author
 - You can also find my papers at [GoogleScholar](https://scholar.google.com.hk/citations?user=eDSGXtYAAAAJ&hl=zh-CN) and [ResearchGate](https://www.researchgate.net/profile/Yuepei-Xu/research).
 
@@ -12,6 +12,10 @@ title: Research
 - <u>Xu, Y.</u>, Wu, C-G., Zhang, Y-Y., & Liang, Z-Y<sup>#</sup>. (2023). How a second language and its future time reference impacts intertemporal decision: A holistic perspective. *Bilingualism: Language and Cognition.* 1-12. (SSCI ,JCR-Q1).
     - Read the full-text: [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/language.pdf)
     - Related report in Chinese: [言其语者从其俗？心理所研究揭示语言对个体跨期决策的影响](http://www.psych.cas.cn/news/kyjz/202303/t20230322_6706867.html)
+    <br>
+- <u>Xu, Y.</u>, Huang, G-H., Xiao, Y., Li, S., Wang, W., & Liang, Z-Y<sup>#</sup>. (2024). A double-edged-sword effect of overplacement: Social comparison bias predicts gambling motivations and behaviors in Chinese casino gamblers. *Journal of Gambling Studies*. (SSCI, JCR-Q2).
+    - Read the full-text: [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/gambling.pdf)
+    - Related report in Chinese: [心理所合作研究揭示过度自信对赌博的双刃剑效应](https://psych.cas.cn/news/kyjz/202404/t20240417_7117256.html)
     <br>
 - <u>Xu, Y.</u><sup>\*</sup>, Yue, L-Z. <sup>\*</sup>, Wang, W., Wu, X-J., & Liang, Z-Y<sup>#</sup>. (2021). Gender-specific impact of self-monitoring and social norm information on walking behavior among Chinese college students assessed using WeChat: Longitudinal tracking study. *Journal of Medical Internet Research. 23*(12), e29167. (SCI, JCR-Q1).
     - Read the full-text: [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/walk.pdf)
@@ -50,3 +54,5 @@ title: Research
 
 ## Peer Review ##
 - Journal of Medical Internet Research (2)
+- Aggressive Behavior (1)
+- 心理学报 (3)
