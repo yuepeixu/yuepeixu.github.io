@@ -51,7 +51,6 @@ title: Research
   
 ## Talks or Posters
 - <u>Xu, Y.</u>, Wulff, D. U.<sup>#</sup>, & Liang, Z-Y<sup>#</sup>. (2024). How we think about the future: Use semantic representation to unpack people’s future cognition. *The Second Doctoral Forum of the Decision-making Psychology Professional Committee of the Chinese Psychological Society*. Talks in Chinese (Guang Zhou, China).
-  - Awarded the Academic Rising-star Award(荣获“学术新锐奖”)
 - <u>Xu, Y.</u>, Wu, Cheng-Gang., Zhang, Yang-Yang., & Liang, Z-Y<sup>#</sup>. (2023). The language effect on intertemporal decision: A holistic perspective. *The Fourth Academic Annual Meeting of the Decision-making Psychology Professional Committee of the Chinese Psychological Society*. Talks in Chinese (Kashgar, China).
   - Awarded the Academic Rising-star Award(荣获“学术新锐奖”)
 - <u>Xu, Y.</u>, & Liang, Z-Y<sup>#</sup>. (2023). The language effect on intertemporal decision: A holistic perspective. *2023 Subjective Probability, Utility, and Decision Making (2023 SPUDM)*. Full talk (Vienna, Austria).
