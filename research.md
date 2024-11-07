@@ -4,11 +4,15 @@ permalink: /research/index.html
 title: Research
 ---
 
-- Latest Update: August 2024.
+- Latest Update: Nov. 2024.
 - Authors are labeled as: <sup>\*</sup>Co-First author, <sup>#</sup>Corresponding author
 - You can also find my papers at [GoogleScholar](https://scholar.google.com.hk/citations?user=eDSGXtYAAAAJ&hl=zh-CN) and [ResearchGate](https://www.researchgate.net/profile/Yuepei-Xu/research).
 
 ## Representative Work
+- <u>Xu, Y.</u>, Li, Y., & Liang, Z-Y<sup>#</sup>. (2024). Seeking forward, looking forward: A replication and generalization of the Future Orientation Index based on Baidu Index. *Collabra: Psychology*. (SSCI, JCR-Q1)
+    - Read the full-text: [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/Baidu.pdf)
+    - Related report in Chinese: [心理所研究揭示百度未来搜索指数可预测中国地区发展水平](https://psych.cas.cn/news/kyjz/202411/t20241105_7422221.html)
+    <br>
 - <u>Xu, Y.</u>, Wu, C-G., Zhang, Y-Y., & Liang, Z-Y<sup>#</sup>. (2023). How a second language and its future time reference impacts intertemporal decision: A holistic perspective. *Bilingualism: Language and Cognition.* 1-12. (SSCI ,JCR-Q1).
     - Read the full-text: [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/language.pdf)
     - Related report in Chinese: [言其语者从其俗？心理所研究揭示语言对个体跨期决策的影响](http://www.psych.cas.cn/news/kyjz/202303/t20230322_6706867.html)
@@ -21,9 +25,6 @@ title: Research
 - <u>Xu, Y.</u><sup>\*</sup>, Yue, L-Z. <sup>\*</sup>, Wang, W., Wu, X-J., & Liang, Z-Y<sup>#</sup>. (2021). Gender-specific impact of self-monitoring and social norm information on walking behavior among Chinese college students assessed using WeChat: Longitudinal tracking study. *Journal of Medical Internet Research. 23*(12), e29167. (SCI, JCR-Q1).
     - Read the full-text: [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/walk.pdf)
     - Related report in Chinese: [心理所研究揭示不同移动健康策略助推走路行为的效果存在性别差异](http://www.psych.cas.cn/news/kyjz/202202/t20220224_6374010.html)
-
-## Working Paper or Preprints
-- <u>Xu, Y.</u>, Li, Y., & Liang, Z-Y<sup>#</sup>. (preprint, invited major revision). Seeking forward, looking forward: A replication and generalization of the Future Orientation Index based on Baidu Index. *Collabra: Psychology*. [<font color="blue">PDF</font>](https://psych.chinaxiv.org/abs/202308.00206)
 
 ## Journal Paper
 - <u>Xu, Y.</u>, Lu, C-L., Wang, J., Song, Q-Y., Jia, B-B., Hu, C-P<sup>#</sup>. (2022). Evaluating nil effect in psychological research: A practical primer [in Chinese]. *Chinese Journal of Applied Psychology, 28*(4), 369-384. (CSSCI).  [<font color="blue">PDF</font>](https://yuepeixu.github.io/mypaper/nil.pdf)
@@ -49,12 +50,14 @@ title: Research
   - As contributor (PI: Dr. Zhu-Yuan, Liang)
   
 ## Talks or Posters
+- <u>Xu, Y.</u>, Wulff, D. U.<sup>#</sup>, & Liang, Z-Y<sup>#</sup>. (2024). How we think about the future: Use semantic representation to unpack people’s future cognition. *The Second Doctoral Forum of the Decision-making Psychology Professional Committee of the Chinese Psychological Society*. Talks in Chinese (Guang Zhou, China).
+  - Awarded the Academic Rising-star Award(荣获“学术新锐奖”)
 - <u>Xu, Y.</u>, Wu, Cheng-Gang., Zhang, Yang-Yang., & Liang, Z-Y<sup>#</sup>. (2023). The language effect on intertemporal decision: A holistic perspective. *The Fourth Academic Annual Meeting of the Decision-making Psychology Professional Committee of the Chinese Psychological Society*. Talks in Chinese (Kashgar, China).
   - Awarded the Academic Rising-star Award(荣获“学术新锐奖”)
 - <u>Xu, Y.</u>, & Liang, Z-Y<sup>#</sup>. (2023). The language effect on intertemporal decision: A holistic perspective. *2023 Subjective Probability, Utility, and Decision Making (2023 SPUDM)*. Full talk (Vienna, Austria).
 - <u>Xu, Y.</u>, & Liang, Z-Y<sup>#</sup>. (2021). Linguistic-saving hypothesis among bilinguals. *2021 Subjective Probability, Utility, and Decision Making (2021 SPUDM)*. Poster (online). [<font color="blue">Poster</font>](https://yuepeixu.github.io/mypaper/2021SPUDM.pdf)
-- <u>Xu, Y.</u>, & Liang, Z-Y<sup>#</sup>. (2021). Linguistic-saving hypothesis among bilinguals: Do different languages impact future orientation and intertemporal discounting? *The 25th China National Academic Conference of Psychology*.  Talks in Chinese (Inner Mongolia).
-- <u>Xu, Y.</u>, Yue, L-Z., Wang, W., Wu, X-J., & Liang, Z-Y<sup>#</sup>. (2021). Self-monitoring and social norms promote walking behavior among Chinese college students: Evidence based on smartphone social media. *2021 China Academic Conference of Social Psychology*.  Talks in Chinese (Su Zhou).
+- <u>Xu, Y.</u>, & Liang, Z-Y<sup>#</sup>. (2021). Linguistic-saving hypothesis among bilinguals: Do different languages impact future orientation and intertemporal discounting? *The 25th China National Academic Conference of Psychology*.  Talks in Chinese (Inner Mongolia, China).
+- <u>Xu, Y.</u>, Yue, L-Z., Wang, W., Wu, X-J., & Liang, Z-Y<sup>#</sup>. (2021). Self-monitoring and social norms promote walking behavior among Chinese college students: Evidence based on smartphone social media. *2021 China Academic Conference of Social Psychology*.  Talks in Chinese (Su Zhou, China).
 
 ## Peer Review ##
 - Journal of Medical Internet Research (2)
